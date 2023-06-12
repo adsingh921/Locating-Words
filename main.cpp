@@ -1,7 +1,4 @@
-/*
-Anmildeep Sandhu
-This is my own work.
-*/
+
 #include<iostream>
 #include<string>
 #include<fstream>
